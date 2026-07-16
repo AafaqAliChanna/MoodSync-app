@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoodSync</string>
+    <string name="title_main">MoodSync</string>
+    <string name="title_log">Log Mood</string>
+    <string name="title_history">Mood History</string>
+    <string name="title_recommendations">Recommendations</string>
+
+    <string name="btn_log_mood">📝  Log Today\'s Mood</string>
+    <string name="btn_history">📊  History</string>
+    <string name="btn_recommend">💡  Tips</string>
+    <string name="btn_save">Save &amp; Get Recommendations</string>
+
+    <string name="hint_journal">Start writing here… e.g. \'I felt really stressed about the exam but after my walk I felt much calmer.\'</string>
+    <string name="label_detected_mood">DETECTED MOOD</string>
+    <string name="label_select_mood">OR SELECT MANUALLY</string>
+    <string name="label_this_week">THIS WEEK</string>
+    <string name="label_today_mood">TODAY\'S MOOD</string>
+
+    <string name="mood_happy">Happy</string>
+    <string name="mood_sad">Sad</string>
+    <string name="mood_angry">Angry</string>
+    <string name="mood_anxious">Anxious</string>
+    <string name="mood_calm">Calm</string>
+    <string name="mood_neutral">Neutral</string>
+
+    <string name="no_entries">No entries yet. Log your first mood to get started!</string>
+    <string name="no_data">No data for this week yet</string>
+
+    <!-- Splash Screen -->
+    <string name="developer_splash">Developer: Aafaq Ali (Muhammad ismail) Channa</string>
+
+    <!-- About Developer Screen -->
+    <string name="title_about_developer">About Developer</string>
+    <string name="dev_name">Aafaq Ali Channa</string>
+    <string name="dev_subname">(Muhammad Ismail Channa)</string>
+    <string name="dev_title">Software Engineer | Independent Researcher\nArena Candidate Master (ACM)</string>
+    <string name="dev_uni">DHA Suffa University, Sindh, Pakistan</string>
+    <string name="label_biography">BIOGRAPHY</string>
+    <string name="dev_bio">Applies strategic analysis and logical problem-solving skills from competitive chess to software engineering and socio-political research.</string>
+    <string name="label_ventures">PROFESSIONAL VENTURES</string>
+    <string name="venture_nizamix">• Nizamix Technologies: Founder. Focused on robust, scalable software solutions.</string>
+    <string name="venture_dua">• Dua Boutique: Founder. Exploring traditional and modern aesthetics.</string>
+    <string name="venture_trader">• Casual Trader: Financial and asset trading markets utilizing behavioral and technical trends.</string>
+    <string name="label_research">RESEARCH &amp; ADVOCACY</string>
+    <string name="dev_research">Creator of the \'Marginalized Maps\' research series. Documenting socio-political issues, historical frameworks, and infrastructural neglect in Sindh and Balochistan.</string>
+    <string name="label_leadership">COMMUNITY LEADERSHIP</string>
+    <string name="dev_leadership">Active voice within the historic Channa community, organizing initiatives for the social, educational, and intellectual uplift of the Channa caste and Sindhi youth.</string>
+    <string name="btn_about_developer">👤  About Developer</string>
+</resources>

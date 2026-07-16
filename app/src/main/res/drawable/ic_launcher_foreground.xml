@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Smiley face icon for MoodSync -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,20 C35.2,20 20,35.2 20,54 C20,72.8 35.2,88 54,88 C72.8,88 88,72.8 88,54 C88,35.2 72.8,20 54,20Z" />
+    <!-- Eyes -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M44,46 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0Z" />
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M64,46 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0Z" />
+    <!-- Smile -->
+    <path
+        android:strokeColor="#6366F1"
+        android:strokeWidth="3"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M40,62 Q54,74 68,62" />
+</vector>
