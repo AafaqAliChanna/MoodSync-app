@@ -81,3 +81,5 @@ Associated with **DHA Suffa University**, Sindh, Pakistan. Aafaq applies strateg
 
 ## 📄 License
 This project is developed for educational and MVP purposes.
+
+also made apk
